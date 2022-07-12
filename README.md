@@ -69,3 +69,4 @@ If you want to test it locally or add some new features, run the below commands.
 bundle install --path vendor/bundle
 bundle exec jekyll serve
 ```
+bla bla
