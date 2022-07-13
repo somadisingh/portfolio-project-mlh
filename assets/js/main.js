@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-  document.documentElement.setAttribute("data-theme", "dark");
+  document.documentElement.setAttribute("data-theme", "light");
 });
 
 const checkbox = document.getElementById("checkbox");
